@@ -27,7 +27,19 @@
   <img src="https://img.shields.io/badge/Discord-4641D9?style=flat&logo=Discord&logoColor=white"/>
   <img src="https://img.shields.io/badge/KakaoTalk-FFE400?style=flat&logo=KakaoTalk&logoColor=white"/>
   <br/><br/><br/><br/>
+  </div>
+  
+  
+  ## 📝 Channel
+  * 블로그. https://velog.io/@tjdals9638
+  * 이력서. https://www.notion.so/seongmin-Ju-ff3c96e5e2c54f3b938c758483045cc4
+  
+  <br/><br/><br/><br/>
+  
+  <div align="center">
+  
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JerryPlatform&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 
