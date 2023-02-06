@@ -26,7 +26,8 @@
   <img src="https://img.shields.io/badge/Slack-BCE55C?style=flat&logo=Slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Discord-4641D9?style=flat&logo=Discord&logoColor=white"/>
   <img src="https://img.shields.io/badge/KakaoTalk-FFE400?style=flat&logo=KakaoTalk&logoColor=white"/>
-  
+  <br/><br/><br/><br/>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JerryPlatform&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
