@@ -32,7 +32,7 @@
   
   ## 📝 Channel
   * 블로그. https://velog.io/@tjdals9638
-  * 이력서. https://www.notion.so/seongmin-Ju-ff3c96e5e2c54f3b938c758483045cc4
+  * 이력서. http://www.seongmin.pro
   
   <br/><br/><br/><br/>
   
